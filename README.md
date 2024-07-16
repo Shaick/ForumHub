@@ -39,15 +39,6 @@ Um fórum é um espaço onde todos os participantes de uma plataforma podem colo
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Configuração do Projeto
-
-<ul>
-<li>Pré-requisitos</li>
-<li>Java 17 ou superior</li>
-<li>Maven</li>
-<li>MySQL</li>
-</ul>
-
 ### Instalação
 1. Clone o repositório:
 
