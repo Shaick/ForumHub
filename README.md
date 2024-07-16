@@ -5,16 +5,16 @@
 Um fórum é um espaço onde todos os participantes de uma plataforma podem colocar suas perguntas sobre determinados assuntos.
 </P>
 
-###A API se concentrará especificamente nos tópicos, e deve permitir aos usuários:
+### A API se concentrará especificamente nos tópicos, e deve permitir aos usuários:
 
 * Mostrar todos os tópicos criados;
 * Mostrar um tópico específico;
 * Atualizar um tópico;
 * Eliminar um tópico.
 
-####CRUD (CREATE, READ, UPDATE, DELETE)
+#### CRUD (CREATE, READ, UPDATE, DELETE)
 
-###Funcionalidades Principais:
+### Funcionalidades Principais:
 * Listagem de tópicos
 * Detalhamento de tópicos
 * Criação, atualização e exclusão de tópicos
@@ -100,7 +100,7 @@ Execute o projeto:
 	 
 	 V2__Create_usuarios_table.sql
 
-####V1__Create_topics_table.sql
+#### V1__Create_topics_table.sql
 <pre>
 # Criando tabela topics
 -- V1__Create_topics_table.sql
@@ -115,7 +115,7 @@ CREATE TABLE topics (
 );
 </pre>
 
-####V2__Create_usuarios_table.sql
+#### V2__Create_usuarios_table.sql
 <pre>
 # Criando tabela usuarios
 -- V1__Create_topics_table.sql
